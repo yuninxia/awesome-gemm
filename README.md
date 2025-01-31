@@ -80,9 +80,10 @@ If you’re new and just want to dive in, start here:
 
 ## Frameworks and Development Tools 🛠️
 
-- [BLIS](https://github.com/flame/blis) - A modular framework for building high-performance BLAS-like libraries.
-- [BLISlab](https://github.com/flame/blislab) - Educational framework for experimenting with BLIS-like GEMM algorithms.
-- [Tensile](https://github.com/ROCm/Tensile) - AMD ROCm JIT compiler for GPU kernels, specializing in GEMM and tensor contractions.
+- [BLIS: A modular framework for building high-performance BLAS-like libraries](https://github.com/flame/blis) (BSD-3-Clause)
+  - [BLISlab: Educational framework for experimenting with BLIS-like GEMM algorithms](https://github.com/flame/blislab)
+- [Tensile: AMD ROCm JIT compiler for GPU kernels, specializing in GEMM and tensor contractions](https://github.com/ROCm/Tensile) (MIT)
+- [Tile Language: A concise DSL designed to streamline development of high-performance GPU/CPU kernels like GEMM](https://github.com/tile-ai/tilelang) (MIT)
 
 ---
 
