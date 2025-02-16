@@ -227,6 +227,7 @@ If you’re new and just want to dive in, start here:
 - [How to Optimize a CUDA Matmul Kernel for cuBLAS-like Performance: A Worklog](https://siboehm.com/articles/22/CUDA-MMM)
 - [Outperforming cuBLAS on H100: a Worklog](https://cudaforfun.substack.com/p/outperforming-cublas-on-h100-a-worklog)
 - [Optimizing Matrix Multiplication](https://coffeebeforearch.github.io/2020/06/23/mmul.html)
+- [Optimizing Matrix Multiplication on RDNA3: 50 TFlops and 60% Faster Than rocBLAS](https://seb-v.github.io/optimization/update/2025/01/20/Fast-GPU-Matrix-multiplication.html)
 - [Optimizing Matrix Multiplication: Cache + OpenMP](https://www.mgaillard.fr/2020/08/29/matrix-multiplication-optimizing.html)
 - [perf-book by Denis Bakhvalov](https://github.com/dendibakh/perf-book)
 - [Tuning Matrix Multiplication (GEMM) for Intel GPUs](https://www.ibiblio.org/e-notes/webgl/gpu/mul/intel.htm)
